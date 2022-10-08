@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CrossbodyBagTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-10-08T19:06:22" hostname="DESKTOP-RESFPSE" time="0.032">
+  <properties/>
+  <testcase name="TestToString" classname="CrossbodyBagTest" time="0.029"/>
+  <testcase name="TestEnhance" classname="CrossbodyBagTest" time="0.001"/>
+  <testcase name="TestGetNumberOfStraps" classname="CrossbodyBagTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
